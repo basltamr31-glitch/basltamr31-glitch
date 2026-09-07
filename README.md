@@ -1,4 +1,4 @@
-<img src="./banner.png" alt="Basl Tamr — AI Automation & Full-Stack Developer" width="100%">
+<img src="./banner_1.png" alt="Basl Tamr — AI Automation & Full-Stack Developer" width="100%">
 
 ### AI Automation & Full-Stack Developer · B.Eng. Mechatronics
 
